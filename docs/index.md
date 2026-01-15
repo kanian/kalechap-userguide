@@ -1,0 +1,53 @@
+# Bienvenue sur Kalechap
+
+**Kalechap** est une plateforme numérique conçue pour faciliter la **mise en relation entre les prestataires de services et les personnes à la recherche de solutions fiables**, près de chez elles.
+
+Notre objectif est simple :
+👉 **rendre visibles les compétences locales** et
+👉 **permettre aux utilisateurs de trouver rapidement le bon prestataire**, en toute confiance.
+
+---
+
+## À quoi sert Kalechap ?
+
+Kalechap permet aux prestataires de services (artisans, professionnels, indépendants, petites entreprises, etc.) de :
+
+- Présenter clairement leurs services
+- Être découverts par de nouveaux clients
+- Être contactés facilement
+
+Pour les utilisateurs, Kalechap permet de :
+
+- Découvrir des prestataires locaux
+- Comparer les services proposés
+- Contacter directement les professionnels qui répondent à leurs besoins
+
+---
+
+## Pour qui est Kalechap ?
+
+Kalechap s’adresse principalement :
+
+- Aux **prestataires de services** souhaitant développer leur visibilité
+- Aux **particuliers et entreprises** à la recherche de services fiables
+- Aux acteurs de l’économie locale qui veulent gagner du temps et éviter le bouche-à-oreille inefficace
+
+La plateforme est pensée pour être **simple, accessible et adaptée au contexte local**.
+
+---
+
+## Comment utiliser cette documentation ?
+
+Cette documentation vous guidera pas à pas pour :
+
+- Comprendre le fonctionnement de Kalechap
+- Créer et gérer votre profil
+- Utiliser les principales fonctionnalités
+- Obtenir de l’aide en cas de problème
+
+👉 Utilisez le menu de navigation pour accéder aux différentes sections.
+
+---
+
+> 📘 Cette documentation est principalement rédigée en français.
+> 🌍 Si nécessaire, vous pouvez utiliser la fonction de traduction automatique de votre navigateur.

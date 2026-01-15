@@ -1,0 +1,12 @@
+site_name: Kalechap Userguide
+theme:
+  name: material
+  language: fr
+nav:
+  - Accueil: index.md
+  - Inscription: inscription.md
+  - Connexion: connexion.md
+  - Subscription: subscription.md
+  - Profil: profil.md
+  - Ajouter une offre de service: ajouter-offre.md
+  - Code de parrainage: code-parrainage.md

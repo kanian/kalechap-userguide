@@ -27,3 +27,28 @@ Install MkDocs within the activated environment (this only needs to be done once
 ```bash
 pip install mkdocs
 ```
+
+### 4. Install mkdocs-material
+
+Install mkdocs-material within the activated environment (this only needs to be done once):
+
+```bash
+pip install mkdocs-material
+```
+
+### 5. Install usefull plugins
+
+Install usefull plugins within the activated environment (this only needs to be done once):
+
+```bash
+pip install mkdocs-awesome-pages-plugin mkdocs-git-revision-date-localized-plugin
+```
+
+### 6. Initialize the documentation
+
+Run the following command to initialize the documentation:
+
+```bash
+mkdocs new .
+```
+
