@@ -2,13 +2,37 @@ site_name: Kalechap Userguide
 theme:
   name: material
   language: fr
+  palette:
+    # Light Mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: orange
+      accent: pink
+      toggle:
+        icon: material/brightness-7
+        name: Passer au mode sombre
+
+    # Dark Mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: orange
+      accent: pink
+      toggle:
+        icon: material/brightness-4
+        name: Passer au mode clair
+
+extra_css:
+  - stylesheets/extra.css
+
 nav:
-  - Accueil: index.md
-  - Inscription: inscription.md
-  - Connexion: connexion.md
-  - Subscription: subscription.md
-  - Profil: profil.md
-  - Ajouter une offre de service: ajouter-offre.md
-  - Code de parrainage: code-parrainage.md
-  - Avance:
+  - Premiers pas:
+    - Accueil: index.md
+    - Inscription: inscription.md
+    - Connexion: connexion.md
+    - Subscription: subscription.md
+    - Profil: profil.md
+  - Utilisation:
+    - Ajouter une offre de service: ajouter-offre.md
+    - Code de parrainage: code-parrainage.md
+  - Avancé:
     - Nombre d'offres de service: nombre-offres-service.md

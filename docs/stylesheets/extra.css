@@ -1,0 +1,12 @@
+:root {
+  /* Giant Goldfish Light */
+  --md-primary-fg-color:        hsl(36, 100%, 50%);
+  --md-accent-fg-color:         hsl(330, 50%, 60%);
+  --md-default-bg-color:        hsl(38, 30%, 93%); /* Atténué */
+}
+
+[data-md-color-scheme="slate"] {
+  /* Giant Goldfish Dark */
+  --md-primary-fg-color:        hsl(36, 100%, 50%);
+  --md-accent-fg-color:         hsl(330, 50%, 60%);
+}
