@@ -51,3 +51,9 @@ Remplissez les informations finales :
 - **Photo** (optionnel mais recommandé pour attirer les clients)
 
 Enfin, appuyez sur le bouton **Ajouter une offre de service** pour publier votre annonce.
+
+---
+
+## Cas particuliers et limitations
+
+Certaines limitations peuvent empêcher l’ajout immédiat d’une nouvelle offre. Pour plus de détails sur la gestion du nombre d'offres autorisées par votre plan, consultez la page : [Nombre d'offres de service](nombre-offres-service.md).

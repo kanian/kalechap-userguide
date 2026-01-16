@@ -10,3 +10,5 @@ nav:
   - Profil: profil.md
   - Ajouter une offre de service: ajouter-offre.md
   - Code de parrainage: code-parrainage.md
+  - Avance:
+    - Nombre d'offres de service: nombre-offres-service.md
