@@ -7,9 +7,9 @@ Une photo de profil soignée permet de rassurer vos clients et de professionnali
 ### Étapes pour ajouter votre photo
 
 1.  **Accéder à l'édition du profil**
-    Depuis la page de votre profil, cliquez sur l'icône de modification ou commencez à remplir les informations si c'est votre première visite.
+    Depuis la page de votre profil, cliquez sur le bouton **Modifier** (si vous avez déjà un profil) ou commencez simplement à remplir les informations si c'est votre première visite.
 
-    ![Modifier le profil](images/edit_profile.png)
+    ![Bouton Modifier le profil](images/modifier_profil.png)
 
 2.  **Cliquer sur "Télécharge une photo"**
     Dans la section supérieure du formulaire de profil, appuyez sur le bouton **Telecharge une photo**.
