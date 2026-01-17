@@ -31,7 +31,7 @@ Une fois dans l'onglet Prestataire, cliquez sur le lien **Profil**.
 Vous arrivez sur la page de votre profil.
 
 > [!NOTE]
-> Lors de votre première visite, votre profil sera vide. Prenez le temps de le remplir avec soin (photo, description, compétences, etc.) pour augmenter votre visibilité.
+> Lors de votre première visite, votre profil sera vide. Prenez le temps de le remplir avec soin ([photo](add-profile-picture.md), description, compétences, etc.) pour augmenter votre visibilité.
 
 N'oubliez pas d'appuyer sur le bouton **Sauvegarder** une fois vos modifications terminées.
 
