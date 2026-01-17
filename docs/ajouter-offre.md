@@ -48,7 +48,7 @@ Remplissez les informations finales :
 - **Nom du service**
 - **Description** détaillée
 - **Prix**
-- **Photo** (optionnel mais recommandé pour attirer les clients)
+- [**Photo**](ajouter-image-offre-service.md) (optionnel mais recommandé pour attirer les clients)
 
 Enfin, appuyez sur le bouton **Ajouter une offre de service** pour publier votre annonce.
 
