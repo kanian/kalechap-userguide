@@ -33,6 +33,7 @@ nav:
       - Subscription: subscription.md
       - Profil: profil.md
   - Utilisation:
+      - Rechercher un service: rechercher-service.md
       - Ajouter une offre de service: ajouter-offre.md
       - Code de parrainage: code-parrainage.md
   - Avancé:
