@@ -15,7 +15,7 @@ Appuyez sur le bouton de menu (hamburger) en haut à gauche de votre écran.
 Dans le menu latéral, vous verrez deux onglets : "Demandeur" et "Prestataire".
 
 > [!IMPORTANT]
-> Actuellement, seuls les utilisateurs ayant un **abonnement actif** peuvent accéder à l'onglet **Prestataire**. C'est dans cet onglet que se trouve le lien vers votre profil.
+> Actuellement, seuls les utilisateurs ayant un [**abonnement actif**](subscription.md) peuvent accéder à l'onglet **Prestataire**. C'est dans cet onglet que se trouve le lien vers votre profil.
 > _Note : À l'avenir, tous les utilisateurs inscrits pourront modifier leur profil._
 
 ![Menu Prestataire](images/menu_prestataire.png)
