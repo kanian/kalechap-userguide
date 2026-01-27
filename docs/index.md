@@ -45,7 +45,9 @@ Cette documentation vous guidera pas à pas pour :
 - Utiliser les principales fonctionnalités
 - Obtenir de l’aide en cas de problème
 
-👉 Utilisez le menu de navigation pour accéder aux différentes sections.
+👉 Utilisez le menu de navigation ![Bouton men](images/hamburger_guide.png) en haut de la page pour accéder aux différentes sections.
+
+![Menu de navigation](images/menu_navigation_guide.png)
 
 ---
 
