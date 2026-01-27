@@ -34,6 +34,7 @@ nav:
       - Profil: profil.md
   - Utilisation:
       - Rechercher un service: rechercher-service.md
+      - Demander un service: service-request.md
       - Ajouter une offre de service: ajouter-offre.md
       - Code de parrainage: code-parrainage.md
   - Avancé:
