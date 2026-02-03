@@ -6,7 +6,7 @@ Découvrez comment créer votre compte sur Kalechap en quelques étapes simples.
 
 ### 1. Accéder au site
 
-Dans la barre de recherche de votre navigateur (nous recommandons Chrome), tapez **kalechap.com**.
+Dans la barre de recherche de votre navigateur (nous recommandons Chrome), tapez **[kalechap.com](https://kalechap.com)**.
 
 ![Taper kalechap.com](images/type_kalechap.png)
 
