@@ -1,12 +1,70 @@
 :root {
   /* Giant Goldfish Light */
-  --md-primary-fg-color:        hsl(36, 100%, 50%);
-  --md-accent-fg-color:         hsl(330, 50%, 60%);
-  --md-default-bg-color:        hsl(38, 30%, 93%); /* Atténué */
+  --md-primary-fg-color: hsl(36, 100%, 50%);
+  --md-accent-fg-color: hsl(330, 50%, 60%);
+  --md-default-bg-color: hsl(38, 30%, 93%); /* Atténué */
 }
 
-[data-md-color-scheme="slate"] {
+[data-md-color-scheme='slate'] {
   /* Giant Goldfish Dark */
-  --md-primary-fg-color:        hsl(36, 100%, 50%);
-  --md-accent-fg-color:         hsl(330, 50%, 60%);
+  --md-primary-fg-color: hsl(36, 100%, 50%);
+  --md-accent-fg-color: hsl(330, 50%, 60%);
+}
+
+/* Previous/Next Navigation Styles */
+.page-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.page-nav-item {
+  flex: 1;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.5rem;
+  background: var(--md-code-bg-color);
+  text-decoration: none;
+  transition:
+    border-color 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.page-nav-item:hover {
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.page-nav-item--prev {
+  text-align: left;
+}
+
+.page-nav-item--next {
+  text-align: right;
+}
+
+.page-nav-label {
+  display: block;
+  font-size: 0.75rem;
+  color: var(--md-default-fg-color--light);
+  margin-bottom: 0.25rem;
+}
+
+.page-nav-title {
+  display: block;
+  font-size: 1rem;
+  color: var(--md-accent-fg-color);
+  font-weight: 500;
+}
+
+.page-nav-item:hover .page-nav-title {
+  text-decoration: underline;
+}
+
+/* Empty placeholder for first/last pages */
+.page-nav-placeholder {
+  flex: 1;
 }
