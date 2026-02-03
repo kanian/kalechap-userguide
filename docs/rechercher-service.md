@@ -56,3 +56,14 @@ Enfin, appuyez sur le bouton **Rechercher** en bas du formulaire pour voir les r
 
 > [!TIP]
 > N'hésitez pas à élargir le rayon de recherche si vous ne trouvez pas de prestataires immédiatement à proximité.
+
+<div class="page-nav">
+  <a href="../profil/" class="page-nav-item page-nav-item--prev">
+    <span class="page-nav-label">← Page précédente</span>
+    <span class="page-nav-title">Profil</span>
+  </a>
+  <a href="../service-request/" class="page-nav-item page-nav-item--next">
+    <span class="page-nav-label">Page suivante →</span>
+    <span class="page-nav-title">Demander un service</span>
+  </a>
+</div>

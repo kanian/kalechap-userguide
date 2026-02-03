@@ -30,3 +30,11 @@ Une photo de profil soignée permet de rassurer vos clients et de professionnali
     Votre nouvelle photo de profil est maintenant visible. N'oubliez pas de sauvegarder les modifications globales de votre profil.
 
     ![Photo de profil ajoutée](images/profie_picture_added.png)
+
+<div class="page-nav">
+  <a href="../ajouter-image-offre-service/" class="page-nav-item page-nav-item--prev">
+    <span class="page-nav-label">← Page précédente</span>
+    <span class="page-nav-title">Ajouter une image d'offre</span>
+  </a>
+  <div class="page-nav-placeholder"></div>
+</div>

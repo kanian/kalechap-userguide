@@ -30,3 +30,14 @@ Une fois vos informations saisies, vérifiez qu'elles sont correctes, puis appuy
 Félicitations ! Vous êtes maintenant connecté et redirigé vers votre tableau de bord.
 
 ![Tableau de bord](images/dashboard_after_login.png)
+
+<div class="page-nav">
+  <a href="../inscription/" class="page-nav-item page-nav-item--prev">
+    <span class="page-nav-label">← Page précédente</span>
+    <span class="page-nav-title">Inscription</span>
+  </a>
+  <a href="../subscription/" class="page-nav-item page-nav-item--next">
+    <span class="page-nav-label">Page suivante →</span>
+    <span class="page-nav-title">Souscription</span>
+  </a>
+</div>

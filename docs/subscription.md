@@ -35,3 +35,14 @@ Si vous choisissez un plan payant (Standard, Pro, VIP), une fenêtre de paiement
 Procedez à la validation de la transaction **Wave** sur votre téléphone.
 
 ![Validation de paiement Wave](images/wave_pay.png)
+
+<div class="page-nav">
+  <a href="../connexion/" class="page-nav-item page-nav-item--prev">
+    <span class="page-nav-label">← Page précédente</span>
+    <span class="page-nav-title">Connexion</span>
+  </a>
+  <a href="../profil/" class="page-nav-item page-nav-item--next">
+    <span class="page-nav-label">Page suivante →</span>
+    <span class="page-nav-title">Profil</span>
+  </a>
+</div>

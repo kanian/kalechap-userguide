@@ -49,3 +49,14 @@ Le formulaire de demande s'ouvre. Complétez les champs suivants :
 Enfin, appuyez sur le bouton **Envoyer la demande** pour transmettre votre note au prestataire.
 
 ![Envoyer la demande](images/send-request.png)
+
+<div class="page-nav">
+  <a href="../rechercher-service/" class="page-nav-item page-nav-item--prev">
+    <span class="page-nav-label">← Page précédente</span>
+    <span class="page-nav-title">Rechercher un service</span>
+  </a>
+  <a href="../ajouter-offre/" class="page-nav-item page-nav-item--next">
+    <span class="page-nav-label">Page suivante →</span>
+    <span class="page-nav-title">Ajouter une offre de service</span>
+  </a>
+</div>

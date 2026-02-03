@@ -45,11 +45,21 @@ Cette documentation vous guidera pas à pas pour :
 - Utiliser les principales fonctionnalités
 - Obtenir de l’aide en cas de problème
 
-👉 Utilisez le menu de navigation ![Bouton men](images/hamburger_guide.png) en haut de la page pour accéder aux différentes sections.
+👉 **Sur mobile** : Utilisez le bouton de menu ![Bouton menu](images/hamburger_guide.png) en haut à gauche de la page pour ouvrir le menu de navigation.
 
 ![Menu de navigation](images/menu_navigation_guide.png)
+
+👉 **Sur grand écran** : La barre latérale de navigation est toujours visible sur le côté gauche de la page, vous permettant d'accéder directement aux différentes sections.
 
 ---
 
 > 📘 Cette documentation est principalement rédigée en français.
 > 🌍 Si nécessaire, vous pouvez utiliser la fonction de traduction automatique de votre navigateur.
+
+<div class="page-nav">
+  <div class="page-nav-placeholder"></div>
+  <a href="inscription/" class="page-nav-item page-nav-item--next">
+    <span class="page-nav-label">Page suivante →</span>
+    <span class="page-nav-title">Inscription</span>
+  </a>
+</div>

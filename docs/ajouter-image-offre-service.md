@@ -49,3 +49,14 @@ Chaque offre de service a un nombre maximum de photos autorisées (selon votre p
 ![Indicateur de photos](images/service_picture_added.png)
 
 _(L'indicateur est visible à côté des photos ajoutées)_
+
+<div class="page-nav">
+  <a href="../nombre-offres-service/" class="page-nav-item page-nav-item--prev">
+    <span class="page-nav-label">← Page précédente</span>
+    <span class="page-nav-title">Nombre d'offres de service</span>
+  </a>
+  <a href="../add-profile-picture/" class="page-nav-item page-nav-item--next">
+    <span class="page-nav-label">Page suivante →</span>
+    <span class="page-nav-title">Ajouter une photo de profil</span>
+  </a>
+</div>

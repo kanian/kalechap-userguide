@@ -38,3 +38,14 @@ N'oubliez pas de cocher la case **J'accepte les conditions d'utilisation**.
 Enfin, appuyez sur le bouton **S'inscrire** pour valider votre compte.
 
 ![Validation de l'inscription](images/registration_form.png)
+
+<div class="page-nav">
+  <a href="../" class="page-nav-item page-nav-item--prev">
+    <span class="page-nav-label">← Page précédente</span>
+    <span class="page-nav-title">Accueil</span>
+  </a>
+  <a href="../connexion/" class="page-nav-item page-nav-item--next">
+    <span class="page-nav-label">Page suivante →</span>
+    <span class="page-nav-title">Connexion</span>
+  </a>
+</div>

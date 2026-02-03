@@ -57,3 +57,14 @@ Enfin, appuyez sur le bouton **Ajouter une offre de service** pour publier votre
 ## Cas particuliers et limitations
 
 Certaines limitations peuvent empêcher l’ajout immédiat d’une nouvelle offre. Pour plus de détails sur la gestion du nombre d'offres autorisées par votre plan, consultez la page : [Nombre d'offres de service](nombre-offres-service.md).
+
+<div class="page-nav">
+  <a href="../service-request/" class="page-nav-item page-nav-item--prev">
+    <span class="page-nav-label">← Page précédente</span>
+    <span class="page-nav-title">Demander un service</span>
+  </a>
+  <a href="../code-parrainage/" class="page-nav-item page-nav-item--next">
+    <span class="page-nav-label">Page suivante →</span>
+    <span class="page-nav-title">Code de parrainage</span>
+  </a>
+</div>

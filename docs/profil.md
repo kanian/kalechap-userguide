@@ -36,3 +36,14 @@ Vous arrivez sur la page de votre profil.
 N'oubliez pas d'appuyer sur le bouton **Sauvegarder** une fois vos modifications terminées.
 
 ![Écran du profil](images/profil.png)
+
+<div class="page-nav">
+  <a href="../subscription/" class="page-nav-item page-nav-item--prev">
+    <span class="page-nav-label">← Page précédente</span>
+    <span class="page-nav-title">Souscription</span>
+  </a>
+  <a href="../rechercher-service/" class="page-nav-item page-nav-item--next">
+    <span class="page-nav-label">Page suivante →</span>
+    <span class="page-nav-title">Rechercher un service</span>
+  </a>
+</div>

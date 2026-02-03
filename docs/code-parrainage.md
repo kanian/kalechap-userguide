@@ -24,3 +24,14 @@ Vous arrivez sur la page de parrainage où vous pouvez voir votre code unique.
 - **Gagner des récompenses** : Lorsqu'un ami s'inscrit avec votre code et complète ses transactions, vous gagnez des récompenses.
 
 ![Écran du code de parrainage](images/code_de_parrainage.png)
+
+<div class="page-nav">
+  <a href="../ajouter-offre/" class="page-nav-item page-nav-item--prev">
+    <span class="page-nav-label">← Page précédente</span>
+    <span class="page-nav-title">Ajouter une offre de service</span>
+  </a>
+  <a href="../nombre-offres-service/" class="page-nav-item page-nav-item--next">
+    <span class="page-nav-label">Page suivante →</span>
+    <span class="page-nav-title">Nombre d'offres de service</span>
+  </a>
+</div>
