@@ -25,6 +25,9 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/extra.js
+
 nav:
   - Premiers pas:
       - Accueil: index.md

@@ -12,7 +12,7 @@ Notre objectif est simple :
 
 Découvrez Kalechap de manière ludique grâce à notre module d'apprentissage interactif !
 
-👉 [Ouvrir le mode apprentissage](./learn/)
+👉 <a href="./learn/" target="_blank">Ouvrir le mode apprentissage</a>
 
 ---
 
