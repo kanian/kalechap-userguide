@@ -8,6 +8,14 @@ Notre objectif est simple :
 
 ---
 
+## Apprentissage Interactif
+
+Découvrez Kalechap de manière ludique grâce à notre module d'apprentissage interactif !
+
+👉 [Ouvrir le mode apprentissage](./learn/)
+
+---
+
 ## À quoi sert Kalechap ?
 
 Kalechap permet aux prestataires de services (artisans, professionnels, indépendants, petites entreprises, etc.) de :
