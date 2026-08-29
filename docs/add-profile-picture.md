@@ -12,7 +12,7 @@ Une photo de profil soignée permet de rassurer vos clients et de professionnali
     ![Bouton Modifier le profil](images/modifier_profil.png)
 
 2.  **Cliquer sur "Télécharge une photo"**
-    Dans la section supérieure du formulaire de profil, appuyez sur le bouton **Telecharge une photo**.
+    Dans la section supérieure du formulaire de profil, appuyez sur le bouton **Téléchargez une photo**.
 
     ![Section photo de profil](images/add_profile_picture_section.png)
 

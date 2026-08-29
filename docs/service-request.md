@@ -50,13 +50,40 @@ Enfin, appuyez sur le bouton **Envoyer la demande** pour transmettre votre note 
 
 ![Envoyer la demande](images/send-request.png)
 
+---
+
+## Après l'envoi de la demande
+
+Une fois la demande envoyée, son **statut** est **En attente**. Le prestataire va examiner votre demande et y répondre.
+
+### Suivre l'évolution
+
+Vous pouvez suivre l'état de votre demande depuis **Mes demandes** dans le menu Demandeur de votre tableau de bord.
+
+| Statut possible | Signification |
+|---|---|
+| ⏳ **En attente** | Le prestataire n'a pas encore répondu |
+| ✅ **Acceptée** | Le prestataire accepte — vous voyez ses coordonnées pour le contacter |
+| ❌ **Refusée** | Le prestataire décline la demande |
+| ✅ **Terminée** | Le service a été effectué — vous pouvez évaluer |
+
+➡️ Voir le guide complet : [Suivre mes demandes](mes-demandes.md)
+
+### Après acceptation
+
+Quand le prestataire accepte, ses coordonnées (numéro de téléphone, email) sont affichées. Contactez-le pour convenir des détails.
+
+### Après la fin du service
+
+Une fois le service effectué et marqué comme **Terminé** par le prestataire, vous pouvez [laisser une évaluation](evaluations.md).
+
 <div class="page-nav">
   <a href="../rechercher-service/" class="page-nav-item page-nav-item--prev">
     <span class="page-nav-label">← Page précédente</span>
     <span class="page-nav-title">Rechercher un service</span>
   </a>
-  <a href="../ajouter-offre/" class="page-nav-item page-nav-item--next">
+  <a href="../mes-demandes/" class="page-nav-item page-nav-item--next">
     <span class="page-nav-label">Page suivante →</span>
-    <span class="page-nav-title">Ajouter une offre de service</span>
+    <span class="page-nav-title">Suivre mes demandes</span>
   </a>
 </div>

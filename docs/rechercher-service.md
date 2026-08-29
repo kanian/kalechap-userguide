@@ -54,13 +54,59 @@ Enfin, appuyez sur le bouton **Rechercher** en bas du formulaire pour voir les r
 
 ---
 
+### 8. Après la recherche : la liste des résultats
+
+Une fois la recherche effectuée, vous voyez la liste des services disponibles correspondant à vos critères.
+
+Chaque fiche de résultat affiche :
+
+- Le **nom du prestataire**
+- La **catégorie** du service
+- Le **prix**
+- La **note moyenne** (étoiles) et le nombre d'évaluations
+- La **localisation**
+
+![Résultats de recherche](images/service-search-result-list.png)
+
+### 9. Filtrer et trier les résultats
+
+Vous pouvez affiner les résultats avec les options de filtre :
+
+| Filtre | Description |
+|---|---|
+| **Note minimum** | Afficher uniquement les services avec une note de 3, 4 ou 5 étoiles |
+| **Prix** | Filtrer par tranche de prix (ex : moins de 10 000 FCFA) |
+| **Localisation** | Limiter à une commune ou un quartier spécifique |
+| **Trier par** | Pertinence, Prix croissant, Prix décroissant, Mieux notés |
+
+![Filtres de recherche](images/search_results_with_filters.png)
+
+### 10. Si aucun résultat n'est trouvé
+
+Si votre recherche ne donne aucun résultat, essayez de :
+
+- **Élargir le rayon de recherche** (passez de 3 km à 5 km, 10 km ou plus)
+- **Changer de catégorie** ou utiliser un mot-clé plus générique
+- **Vérifier l'orthographe** du lieu ou du service saisi
+
+> [!TIP]
+> Plus le rayon est grand, plus vous aurez de résultats. N'hésitez pas à l'augmenter progressivement.
+
+### 11. Voir les détails d'un service
+
+Pour obtenir plus d'informations sur un service, appuyez sur le bouton **Voir** sur la fiche du service. Vous accéderez à la page de détail avec les photos, la description complète, le prix et les évaluations.
+
+![Bouton Voir le service](images/view-service-request-button.png)
+
+---
+
 > [!TIP]
 > N'hésitez pas à élargir le rayon de recherche si vous ne trouvez pas de prestataires immédiatement à proximité.
 
 <div class="page-nav">
-  <a href="../profil/" class="page-nav-item page-nav-item--prev">
+  <a href="../parametres-compte/" class="page-nav-item page-nav-item--prev">
     <span class="page-nav-label">← Page précédente</span>
-    <span class="page-nav-title">Profil</span>
+    <span class="page-nav-title">Paramètres du compte</span>
   </a>
   <a href="../service-request/" class="page-nav-item page-nav-item--next">
     <span class="page-nav-label">Page suivante →</span>

@@ -31,18 +31,26 @@ extra_javascript:
 nav:
   - Premiers pas:
       - Accueil: index.md
+      - Page d'accueil (Landing): landing.md
       - Inscription: inscription.md
+      - Inscription en tant qu'agence: inscription-agence.md
       - Connexion: connexion.md
-      - Subscription: subscription.md
+      - Souscription: subscription.md
       - Profil: profil.md
-  - Utilisation:
-      - Ajouter une offre de service: ajouter-offre.md
+      - Paramètres du compte: parametres-compte.md
+  - Utilisation (Demandeur):
       - Rechercher un service: rechercher-service.md
       - Demander un service: service-request.md
-      - Code de parrainage: code-parrainage.md
-  - Avancé:
+      - Suivre mes demandes: mes-demandes.md
+      - Évaluations et avis: evaluations.md
+  - Utilisation (Prestataire):
+      - Ajouter une offre de service: ajouter-offre.md
+      - Gérer les demandes reçues: demandes-recues.md
+      - Évaluations et avis: evaluations.md
       - Nombre d'offres de service: nombre-offres-service.md
-      - Ajouter une image d'offre: ajouter-image-offre-service.md
+      - Ajouter une image à une offre: ajouter-image-offre-service.md
       - Ajouter une photo de profil: add-profile-picture.md
+  - Autres:
+      - Code de parrainage: code-parrainage.md
   - Apprentissage:
       - Mode apprentissage: learn/

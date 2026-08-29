@@ -15,8 +15,7 @@ Appuyez sur le bouton de menu (hamburger) en haut à gauche de votre écran.
 Dans le menu latéral, vous verrez deux onglets : "Demandeur" et "Prestataire".
 
 > [!IMPORTANT]
-> Actuellement, seuls les utilisateurs ayant un [**abonnement actif**](subscription.md) peuvent accéder à l'onglet **Prestataire**. C'est dans cet onglet que se trouve le lien vers votre profil.
-> _Note : À l'avenir, tous les utilisateurs inscrits pourront modifier leur profil._
+> L'onglet **Prestataire** est accessible à tous les utilisateurs disposant d'un [**abonnement actif**](subscription.md) (Gratuit, Standard, Pro ou VIP). C'est dans cet onglet que se trouve le lien vers votre profil.
 
 ![Menu Prestataire](images/menu_prestataire.png)
 
@@ -37,13 +36,26 @@ N'oubliez pas d'appuyer sur le bouton **Sauvegarder** une fois vos modifications
 
 ![Écran du profil](images/profil.png)
 
+---
+
+## 5. Profil d'agence
+
+Si vous êtes inscrit en tant qu'[agence](inscription-agence.md), votre profil contient des champs supplémentaires :
+
+- **Nom de l'agence** : affiché sur vos offres de service
+- **Statut de vérification** : "Agence vérifiée" ou "Vérification en attente"
+- Un badge **Agence** apparaît sur vos fiches de service
+
+> [!TIP]
+> Pour ajouter le nom de votre agence ou vérifier votre statut, allez dans les paramètres de votre profil et remplissez la section **Inscription en tant qu'agence**.
+
 <div class="page-nav">
   <a href="../subscription/" class="page-nav-item page-nav-item--prev">
     <span class="page-nav-label">← Page précédente</span>
     <span class="page-nav-title">Souscription</span>
   </a>
-  <a href="../rechercher-service/" class="page-nav-item page-nav-item--next">
+  <a href="../parametres-compte/" class="page-nav-item page-nav-item--next">
     <span class="page-nav-label">Page suivante →</span>
-    <span class="page-nav-title">Rechercher un service</span>
+    <span class="page-nav-title">Paramètres du compte</span>
   </a>
 </div>

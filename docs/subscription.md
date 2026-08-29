@@ -22,6 +22,18 @@ Vous verrez alors l'écran affichant les différents plans disponibles (Gratuit,
 
 ![Plans disponibles](images/subscriptions.png)
 
+### Comparaison des plans
+
+| Fonctionnalité | 🆓 Gratuit | ⭐ Standard | 💼 Pro | 👑 VIP |
+|---|---|---|---|---|
+| **Prix** | 0 FCFA | Payant | Payant | Payant |
+| **Accès onglet Prestataire** | ✅ Oui | ✅ Oui | ✅ Oui | ✅ Oui |
+| **Nombre max d'offres actives** | Limitée | Supérieure | Supérieure | Maximale |
+| **Photos par offre** | Limitée | Supérieure | Supérieure | Maximale |
+| **Statut Agence** | ❌ Non | ❌ Non | ❌ Non | ✅ Oui |
+
+> Pour connaître le nombre exact d'offres et de photos autorisées par votre plan, consultez la page sur le [Nombre d'offres de service](nombre-offres-service.md).
+
 ### 4. Souscrire
 
 Cliquez sur le bouton **Abonnez-vous** du plan qui vous intéresse pour finaliser votre souscription.
@@ -32,7 +44,7 @@ Cliquez sur le bouton **Abonnez-vous** du plan qui vous intéresse pour finalise
 
 Si vous choisissez un plan payant (Standard, Pro, VIP), une fenêtre de paiement s'affichera.
 
-Procedez à la validation de la transaction **Wave** sur votre téléphone.
+Procédez à la validation de la transaction **Wave** sur votre téléphone.
 
 ![Validation de paiement Wave](images/wave_pay.png)
 

@@ -40,12 +40,12 @@ Enfin, appuyez sur le bouton **S'inscrire** pour valider votre compte.
 ![Validation de l'inscription](images/registration_form.png)
 
 <div class="page-nav">
-  <a href="../" class="page-nav-item page-nav-item--prev">
+  <a href="../landing/" class="page-nav-item page-nav-item--prev">
     <span class="page-nav-label">← Page précédente</span>
-    <span class="page-nav-title">Accueil</span>
+    <span class="page-nav-title">Page d'accueil (Landing)</span>
   </a>
-  <a href="../connexion/" class="page-nav-item page-nav-item--next">
+  <a href="../inscription-agence/" class="page-nav-item page-nav-item--next">
     <span class="page-nav-label">Page suivante →</span>
-    <span class="page-nav-title">Connexion</span>
+    <span class="page-nav-title">Inscription en tant qu'agence</span>
   </a>
 </div>

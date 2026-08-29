@@ -35,12 +35,12 @@ Une fois qu'un emplacement est libéré, le compteur des services restants se me
 ![Services restants et bouton ajouter](images/services_restants.png)
 
 <div class="page-nav">
-  <a href="../code-parrainage/" class="page-nav-item page-nav-item--prev">
+  <a href="../demandes-recues/" class="page-nav-item page-nav-item--prev">
     <span class="page-nav-label">← Page précédente</span>
-    <span class="page-nav-title">Code de parrainage</span>
+    <span class="page-nav-title">Gérer les demandes reçues</span>
   </a>
   <a href="../ajouter-image-offre-service/" class="page-nav-item page-nav-item--next">
     <span class="page-nav-label">Page suivante →</span>
-    <span class="page-nav-title">Ajouter une image d'offre</span>
+    <span class="page-nav-title">Ajouter une image à une offre</span>
   </a>
 </div>

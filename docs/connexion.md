@@ -32,9 +32,9 @@ Félicitations ! Vous êtes maintenant connecté et redirigé vers votre tableau
 ![Tableau de bord](images/dashboard_after_login.png)
 
 <div class="page-nav">
-  <a href="../inscription/" class="page-nav-item page-nav-item--prev">
+  <a href="../inscription-agence/" class="page-nav-item page-nav-item--prev">
     <span class="page-nav-label">← Page précédente</span>
-    <span class="page-nav-title">Inscription</span>
+    <span class="page-nav-title">Inscription en tant qu'agence</span>
   </a>
   <a href="../subscription/" class="page-nav-item page-nav-item--next">
     <span class="page-nav-label">Page suivante →</span>

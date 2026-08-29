@@ -25,13 +25,49 @@ Vous arrivez sur la page de parrainage où vous pouvez voir votre code unique.
 
 ![Écran du code de parrainage](images/code_de_parrainage.png)
 
+---
+
+## 4. Statistiques de parrainage
+
+Dans votre tableau de bord, vous pouvez accéder à **Détails du parrainage** pour voir vos statistiques :
+
+- Nombre de personnes inscrites avec votre code
+- Récompenses gagnées
+- Évolution dans le temps
+
+![Statistiques de parrainage](images/placeholder_referral_breakdown.png)
+
+Pour y accéder : menu latéral → onglet Demandeur → **Détails du parrainage**
+
+---
+
+## 5. Code de parrainage pour les agences
+
+Si vous êtes inscrit en tant qu'[agence](inscription-agence.md), votre code de parrainage fonctionne dans le cadre du **Réseau de l'agence** :
+
+- Le code est lié à votre structure (et non à votre personne)
+- Les récompenses sont attribuées à l'agence
+- Le libellé dans l'interface indique spécifiquement "Réseau de l'agence"
+
+> [!NOTE]
+> Les agences disposent d'un programme de parrainage adapté à leur activité de placement.
+
+---
+
+## 6. Utiliser le code de parrainage d'un ami
+
+Lors de l'[inscription](inscription.md), vous avez la possibilité de saisir un **code de parrainage** dans le champ prévu à cet effet :
+
+- Le code est optionnel
+- Saisissez-le tel qu'il vous a été communiqué (sans espace ni caractère spécial)
+- Si vous ne possédez pas de code, laissez le champ vide
+
+![Code de parrainage à l'inscription](images/code_de_parrainage.png)
+
 <div class="page-nav">
-  <a href="../ajouter-offre/" class="page-nav-item page-nav-item--prev">
+  <a href="../nombre-offres-service/" class="page-nav-item page-nav-item--prev">
     <span class="page-nav-label">← Page précédente</span>
-    <span class="page-nav-title">Ajouter une offre de service</span>
-  </a>
-  <a href="../nombre-offres-service/" class="page-nav-item page-nav-item--next">
-    <span class="page-nav-label">Page suivante →</span>
     <span class="page-nav-title">Nombre d'offres de service</span>
   </a>
+  <div class="page-nav-placeholder"></div>
 </div>
